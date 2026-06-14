@@ -1,0 +1,12 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve un arreglo con los reportes que se han registrado en memoria.
+
+Si solo se ha enviado un reporte, la respuesta muestra un arreglo con ese elemento.
+
+Ejemplo de respuesta:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
