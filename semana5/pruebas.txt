@@ -1,0 +1,9 @@
+Ruta /
+
+Al acceder a la ruta principal del servidor, este responde con el mensaje "Servidor activo", confirmando que el servidor está correctamente en ejecución y listo para recibir solicitudes.
+Ruta /saludo
+
+Al acceder a esta ruta, el servidor responde con el mensaje "Hola comunidad", lo que indica que la ruta está configurada para devolver un saludo general dirigido a todos los usuarios que la visiten.
+Ruta /mensaje/juan
+
+Al acceder a esta ruta con el parámetro "juan", el servidor responde con el mensaje "Hola juan", demostrando que la ruta es dinámica y capaz de recibir un nombre como parámetro en la URL y utilizarlo para personalizar la respuesta.
