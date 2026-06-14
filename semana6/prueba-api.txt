@@ -1,0 +1,8 @@
+El servidor devuelve una respuesta en formato JSON con el estado "Datos recibidos" y los valores enviados en la petición.
+
+Ejemplo de respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

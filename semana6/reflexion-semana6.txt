@@ -1,0 +1,9 @@
+Recibir reportes de forma estructurada permite que la información llegue completa y ordenada.
+Eso facilita que la plataforma la procese sin errores y la almacene correctamente.
+También ayuda a identificar rápidamente el tipo de problema que necesita atención.
+Cuando los datos siguen un formato claro, es más fácil automatizar respuestas y registros.
+Además, el equipo encargado puede clasificar las solicitudes según su prioridad.
+Esto mejora la comunicación entre la ciudadanía y la entidad responsable.
+Una entrada estructurada reduce confusiones al interpretar los mensajes.
+También permite hacer seguimiento a cada caso de manera más eficiente.
+Por eso, usar JSON y `req.body` ayuda a construir servicios útiles y organizados.
