@@ -1,0 +1,9 @@
+Es importante que las plataformas comunitarias funcionen de manera estable porque muchas personas dependen de ellas para consultar información.
+Si el servidor falla con frecuencia, la comunidad pierde confianza en la herramienta.
+Una buena estabilidad permite que los servicios estén disponibles cuando se necesitan.
+También ayuda a que los reportes y consultas se procesen sin interrupciones.
+La seguridad es igual de importante porque protege la información y evita accesos no autorizados.
+Cuando un servidor está bien administrado, es más fácil detectar errores y resolverlos.
+Los logs permiten revisar qué pasó si ocurre un problema.
+Eso mejora el mantenimiento y hace más confiable la plataforma.
+Por eso, estabilidad y seguridad son esenciales para apoyar procesos comunitarios.
