@@ -1,0 +1,9 @@
+Una plataforma tecnológica que promueve participación ciudadana necesita base de datos porque debe guardar información de manera organizada.
+La autenticación de usuarios permite saber quién accede al sistema y qué acciones puede realizar.
+Eso ayuda a proteger rutas y funciones que no deben estar abiertas para cualquier persona.
+La protección de información es clave para cuidar la privacidad de la comunidad.
+Si los datos sensibles quedan expuestos, pueden usarse de forma indebida.
+También es importante para mantener la confianza de las personas que participan.
+Una plataforma segura facilita el seguimiento de causas, apoyos y registros.
+Además, una base de datos bien estructurada permite consultar información con más orden y trazabilidad.
+Por eso, estos elementos son necesarios para que el sistema sea útil, confiable y responsable.

@@ -1,0 +1,9 @@
+La interfaz tendría una sección para crear una nueva causa comunitaria con título, descripción y fecha.
+
+También tendría una vista con las causas disponibles para que los usuarios puedan leerlas.
+
+Cada causa tendría un botón para apoyar y un contador que muestre cuántas personas la han apoyado.
+
+El formulario debe ser simple, claro y fácil de usar.
+
+La interfaz no debe mostrar información privada de los usuarios y debe mantener los datos sensibles protegidos.
