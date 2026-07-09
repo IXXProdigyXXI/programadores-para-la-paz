@@ -1,0 +1,9 @@
+Las metodologías ágiles ayudan a organizar el trabajo en pasos pequeños y claros.
+Eso permite priorizar lo más importante y responder mejor a cambios o necesidades nuevas.
+La automatización con n8n reduce tareas repetitivas y ayuda a que el seguimiento sea más rápido.
+Telegram sirve como canal de aviso para coordinar al equipo y mantener la comunicación activa.
+Juntas, estas herramientas hacen que la comunidad tenga un proceso más ordenado y visible.
+También mejoran la trazabilidad porque queda registro de lo que se hizo y cuándo se hizo.
+Eso facilita revisar avances, detectar problemas y corregirlos a tiempo.
+Además, se protege la información sensible al compartir solo datos necesarios.
+Por eso, estas prácticas apoyan una participación ciudadana más clara, rápida y responsable.

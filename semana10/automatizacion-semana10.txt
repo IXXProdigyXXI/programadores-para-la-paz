@@ -1,0 +1,7 @@
+Evento: se registra una nueva incidencia en el sistema.
+
+Acción: n8n toma el evento y envía un mensaje a Telegram al canal del equipo.
+
+Mensaje: "Nuevo reporte recibido. Revisar el sistema para dar seguimiento."
+
+Información que no debe enviarse por seguridad: nombres completos, documentos de identidad, direcciones, teléfonos, correos personales, claves, tokens ni otros datos sensibles.
